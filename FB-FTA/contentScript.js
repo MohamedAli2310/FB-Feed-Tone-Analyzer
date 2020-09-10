@@ -2,8 +2,8 @@
 var request = require("request");
 var EventEmitter = require("events").EventEmitter;
 var emitter = new EventEmitter();
-var toneurl = "https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/9a712a0a-4116-46c6-969c-a72538130b98/v3/tone?version=2017-09-21&text=";
-var toneapikey = 'AswQhaA__Apuz-Ijtszt-EIlI92ZrETRSGpwDdQWsoB8' ;
+var toneurl = "{url}";
+var toneapikey = '{apikey}' ;
 var start = 0;
 window.setInterval(foo, 1000);
 foo();
