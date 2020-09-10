@@ -34,4 +34,4 @@ FB-FTA scrapes your FB Feed for text content (posts and captions), it then makes
 
 ### Programming Languages Used:
 
--JavaScript 100%
+JavaScript 100%
