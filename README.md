@@ -2,7 +2,7 @@
 ###### A chrome extension that analyzes the tones in posts on your FB feed and allows you to hide specific posts by tone (e.g. hide all sad posts from your feed).
 
 ### How It Works:
-FB-FTA scrapes your FB Feed for text content (posts and captions), it then makes use of IBM Watson's tone analyzing NLP Model by sending encrypted requests to the service's server. FB-FTA parses the server's response and uses it to determine the overall tone of each post on your feed and shows the dominant tone next to each post. 
+FB-FTA scrapes your FB Feed for text content (posts and captions), it then makes use of IBM Watson's tone analyzing NLP Model by sending requests to the service's server. FB-FTA parses the server's response and uses it to determine the overall tone of each post on your feed and shows the dominant tone next to each post. 
 
 ### Features: 
 
